@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`4716900`](https://github.com/stdlib-js/stdlib/commit/4716900526f5fac5b2febef52d991b5d8c89e533) - **bench:** fix description _(by Athan Reines)_
 -   [`81c49c2`](https://github.com/stdlib-js/stdlib/commit/81c49c2f009a283a6d6f5094adedf88b0d5134de) - **feat:** add `blas/ext/base/scunone` [(#12674)](https://github.com/stdlib-js/stdlib/pull/12674) _(by Muhammad Haris, Athan Reines)_
 
 </details>
